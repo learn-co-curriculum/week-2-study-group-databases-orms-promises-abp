@@ -1,15 +1,3 @@
-# Intro to Object Orientation in Javascript Lecture
+# Study Group - Databases, ORMs, Promises - ABP Nov 14 2017
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NU0Ch28t6rc?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/NU0Ch28t6rc">Intro to Object Orientation in Javascript Lecture</a></p>
-
-[Slides](https://docs.google.com/presentation/d/1wnk1395zQ9VcAP_OfAlSuO_q1DYgXQxSnr_QZszUtrE/edit)
-[Pirates of Silicon Valley Scene](https://youtu.be/2u70CgBr-OI)
-
-## Resources
-
-* [Intro to JS Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-* [Intro to OO](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
-* [Basics of JS Objects](https://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
-* [Objects in Eloquent JS](http://eloquentjavascript.net/06_object.html)
-* [OO - What You Need to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-* [Deep Dive into ES6 OO](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPY7Zx0dUeA?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/QPY7Zx0dUeA">Study Group - Databases, ORMs, Promises - ABP Nov 14 2017</a></p>
